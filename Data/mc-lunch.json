@@ -1,0 +1,50 @@
+[
+  {
+    "id": "christmas-truffle-cheese-burger-meal",
+    "name_ko": "크리스마스",
+    "name_en": "트러플 치즈 버거 세트Christmas Truffle Cheese Burger Meal",
+    "kcal": "993-1133",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/765/1/21",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/11/Corp_PC_VIEW_772x530_%ED%8A%B8%EB%9F%AC%ED%94%8C%EC%B9%98%EC%A6%88%EB%B2%84%EA%B1%B0_EVM.png"
+  },
+  {
+    "id": "christmas-hot-truffle-cheese-burger-meal",
+    "name_ko": "크리스마스",
+    "name_en": "핫 트러플 치즈 버거 세트Christmas Hot Truffle Cheese Burger Meal",
+    "kcal": "995-1135",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/764/2/21",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/11/Corp_PC_VIEW_772x530_%ED%95%AB%ED%8A%B8%EB%9F%AC%ED%94%8C%EC%B9%98%EC%A6%88%EB%B2%84%EA%B1%B0.png"
+  },
+  {
+    "id": "big-mac-meal",
+    "name_ko": "빅맥®",
+    "name_en": "세트Big Mac® Meal",
+    "kcal": "906~1045",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/178/3/21",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/08/%EB%B9%85%EB%A7%A5%C2%AE_%EC%84%B8%ED%8A%B8.png"
+  },
+  {
+    "id": "mcspicy-shanghai-burger-meal",
+    "name_ko": "맥스파이시®",
+    "name_en": "상하이 버거 세트McSpicy® Shanghai Burger Meal",
+    "kcal": "825~964",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/603/4/21",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1723562660091.png"
+  },
+  {
+    "id": "1955-1955-burger-meal",
+    "name_ko": null,
+    "name_en": "1955® 버거 세트1955® Burger Meal",
+    "kcal": "896~1035",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/2/5/21",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1723564262197.png"
+  },
+  {
+    "id": "mccrispy-deluxe-burger-meal",
+    "name_ko": "맥크리스피™",
+    "name_en": "디럭스 버거 세트McCrispy™ Deluxe Burger Meal",
+    "kcal": "938~1077",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/471/6/21",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1723562746514.png"
+  }
+]

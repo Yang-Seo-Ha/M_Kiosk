@@ -1,0 +1,129 @@
+﻿<Page x:Class="키오스크.Views.MenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="MenuPage">
+
+	<Grid Background="#FF181818" Margin="20">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<!-- 제목 -->
+			<RowDefinition Height="Auto"/>
+			<!-- 카테고리 버튼 -->
+			<RowDefinition Height="*"/>
+			<!-- 메뉴 카드 영역 -->
+		</Grid.RowDefinitions>
+
+		<!-- ▷ 상단 제목 -->
+		<TextBlock Grid.Row="0"
+                   Text="메뉴 선택"
+                   Foreground="White"
+                   FontSize="32"
+                   FontWeight="Bold"
+                   Margin="0,0,0,10"/>
+
+		<!-- ▷ 카테고리 버튼들 -->
+		<StackPanel Grid.Row="1"
+                    Orientation="Horizontal"
+                    Margin="0,0,0,10">
+			<Button Content="전체"
+                    Margin="0,0,10,0"
+                    Padding="15,5"
+                    Tag=""
+                    Click="CategoryButton_Click"/>
+			<Button Content="버거 / 세트"
+                    Margin="0,0,10,0"
+                    Padding="15,5"
+                    Tag="burgers"
+                    Click="CategoryButton_Click"/>
+			<Button Content="런치"
+                    Margin="0,0,10,0"
+                    Padding="15,5"
+                    Tag="lunch"
+                    Click="CategoryButton_Click"/>
+			<Button Content="맥모닝"
+                    Margin="0,0,10,0"
+                    Padding="15,5"
+                    Tag="mc-morning"
+                    Click="CategoryButton_Click"/>
+			<Button Content="해피밀"
+                    Margin="0,0,10,0"
+                    Padding="15,5"
+                    Tag="happy-meal"
+                    Click="CategoryButton_Click"/>
+			<Button Content="해피스낵"
+                    Margin="0,0,10,0"
+                    Padding="15,5"
+                    Tag="happy-snack"
+                    Click="CategoryButton_Click"/>
+			<Button Content="사이드"
+                    Margin="0,0,10,0"
+                    Padding="15,5"
+                    Tag="sides"
+                    Click="CategoryButton_Click"/>
+			<Button Content="맥카페"
+                    Margin="0,0,10,0"
+                    Padding="15,5"
+                    Tag="mc-cafe"
+                    Click="CategoryButton_Click"/>
+		</StackPanel>
+
+		<!-- ▷ 메뉴 카드 영역 -->
+		<ScrollViewer Grid.Row="2">
+			<ItemsControl x:Name="MenuItemsControl">
+				<ItemsControl.ItemsPanel>
+					<ItemsPanelTemplate>
+						<WrapPanel IsItemsHost="True"
+                                   Orientation="Horizontal"/>
+					</ItemsPanelTemplate>
+				</ItemsControl.ItemsPanel>
+
+				<ItemsControl.ItemTemplate>
+					<DataTemplate>
+						<Border Width="220"
+                                Height="260"
+                                Margin="5"
+                                Background="#FF202020"
+                                CornerRadius="10">
+							<Grid Margin="8">
+								<Grid.RowDefinitions>
+									<RowDefinition Height="2*"/>
+									<!-- 이미지 -->
+									<RowDefinition Height="*"/>
+									<!-- 텍스트 -->
+								</Grid.RowDefinitions>
+
+								<!-- 이미지 -->
+								<Border Grid.Row="0"
+                                        Background="#FF404040"
+                                        CornerRadius="8">
+									<Image Source="{Binding imageUrl}"
+                                           Stretch="UniformToFill"
+                                           ClipToBounds="True"/>
+								</Border>
+
+								<!-- 메뉴 이름 / kcal -->
+								<StackPanel Grid.Row="1"
+                                            Margin="0,6,0,0">
+									<TextBlock Text="{Binding name_ko}"
+                                               Foreground="White"
+                                               FontSize="16"
+                                               FontWeight="Bold"
+                                               TextWrapping="Wrap"/>
+									<TextBlock Text="{Binding name_en}"
+                                               Foreground="#FFBBBBBB"
+                                               FontSize="11"
+                                               TextWrapping="Wrap"
+                                               Margin="0,2,0,0"/>
+									<TextBlock Text="{Binding kcal, StringFormat={}{0} kcal}"
+                                               Foreground="#FFFFC107"
+                                               FontSize="12"
+                                               Margin="0,4,0,0"/>
+								</StackPanel>
+							</Grid>
+						</Border>
+					</DataTemplate>
+				</ItemsControl.ItemTemplate>
+			</ItemsControl>
+		</ScrollViewer>
+	</Grid>
+</Page>

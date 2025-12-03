@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bacon-egg-mcmuffin",
+    "category": "happy-meal",
+    "rawText": "베이컨 에그 맥머핀Bacon Egg McMuffin327kcal",
+    "name_ko": "베이컨",
+    "name_en": "에그 맥머핀Bacon Egg McMuffin",
+    "kcal": "327",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/119/1/5",
+    "imageUrl": "https://www.mcdonalds.co.kr/uploadFolder/product/prov_201901290309065310.png"
+  },
+  {
+    "id": "sausage-egg-mcmuffin",
+    "category": "happy-meal",
+    "rawText": "소시지 에그 맥머핀Sausage Egg McMuffin463kcal",
+    "name_ko": "소시지",
+    "name_en": "에그 맥머핀Sausage Egg McMuffin",
+    "kcal": "463",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/9/2/5",
+    "imageUrl": "https://www.mcdonalds.co.kr/uploadFolder/product/prov_201903190244458360.png"
+  },
+  {
+    "id": "egg-mcmuffin",
+    "category": "happy-meal",
+    "rawText": "에그 맥머핀Egg McMuffin303kcal",
+    "name_ko": "에그",
+    "name_en": "맥머핀Egg McMuffin",
+    "kcal": "303",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/120/3/5",
+    "imageUrl": "https://www.mcdonalds.co.kr/uploadFolder/product/prov_201901290308474630.png"
+  },
+  {
+    "id": "2-hotcakes-2pcs",
+    "category": "happy-meal",
+    "rawText": "단품핫케익 2조각Hotcakes 2pcs223kcal",
+    "name_ko": "단품핫케익",
+    "name_en": "2조각Hotcakes 2pcs",
+    "kcal": "223",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/80/4/5",
+    "imageUrl": "https://www.mcdonalds.co.kr/uploadFolder/product/prov_201902111059484930.png"
+  },
+  {
+    "id": "hash-brown",
+    "category": "happy-meal",
+    "rawText": "해쉬 브라운Hash Brown162kcal",
+    "name_ko": "해쉬",
+    "name_en": "브라운Hash Brown",
+    "kcal": "162",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/126/6/5",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1742426888535.png"
+  }
+]

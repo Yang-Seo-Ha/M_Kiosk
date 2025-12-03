@@ -1,0 +1,62 @@
+[
+  {
+    "id": "christmas-truffle-cheese-muffin-meal",
+    "category": "mc-morning",
+    "rawText": "세트단품크리스마스 트러플 치즈 머핀 세트Christmas Truffle Cheese Muffin Meal648kcal",
+    "name_ko": "세트단품크리스마스",
+    "name_en": "트러플 치즈 머핀 세트Christmas Truffle Cheese Muffin Meal",
+    "kcal": "648",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/766/1/3",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/11/Corp_PC_VIEW_772x530_%ED%8A%B8%EB%9F%AC%ED%94%8C%EC%B9%98%EC%A6%88%EB%A8%B8%ED%95%80_EVB.png"
+  },
+  {
+    "id": "blt-egg-muffin-meal",
+    "category": "mc-morning",
+    "rawText": "세트단품베이컨 토마토 에그 머핀 세트BLT Egg Muffin Meal509kcal",
+    "name_ko": "세트단품베이컨",
+    "name_en": "토마토 에그 머핀 세트BLT Egg Muffin Meal",
+    "kcal": "509",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/366/2/3",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1742427076140.png"
+  },
+  {
+    "id": "egg-mcmuffin-meal",
+    "category": "mc-morning",
+    "rawText": "세트단품에그 맥머핀 세트Egg McMuffin Meal474kcal",
+    "name_ko": "세트단품에그",
+    "name_en": "맥머핀 세트Egg McMuffin Meal",
+    "kcal": "474",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/135/3/3",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1742427597295.png"
+  },
+  {
+    "id": "bacon-egg-mcmuffin-meal",
+    "category": "mc-morning",
+    "rawText": "세트단품베이컨 에그 맥머핀 세트Bacon Egg McMuffin Meal498kcal",
+    "name_ko": "세트단품베이컨",
+    "name_en": "에그 맥머핀 세트Bacon Egg McMuffin Meal",
+    "kcal": "498",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/115/4/3",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1742427316786.png"
+  },
+  {
+    "id": "sausage-egg-mcmuffin-combo",
+    "category": "mc-morning",
+    "rawText": "세트단품소시지 에그 맥머핀 콤보Sausage Egg McMuffin Combo473kcal",
+    "name_ko": "세트단품소시지",
+    "name_en": "에그 맥머핀 콤보Sausage Egg McMuffin Combo",
+    "kcal": "473",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/317/5/3",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1677677701120.png"
+  },
+  {
+    "id": "sausage-egg-mcmuffin-meal",
+    "category": "mc-morning",
+    "rawText": "세트단품소시지 에그 맥머핀 세트Sausage Egg McMuffin Meal634kcal",
+    "name_ko": "세트단품소시지",
+    "name_en": "에그 맥머핀 세트Sausage Egg McMuffin Meal",
+    "kcal": "634",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/127/6/3",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1742427539029.png"
+  }
+]

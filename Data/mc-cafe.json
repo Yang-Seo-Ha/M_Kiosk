@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mediumamericano-medium",
+    "category": "mc-cafe",
+    "rawText": "아메리카노 MediumAmericano Medium12kcal",
+    "name_ko": "아메리카노",
+    "name_en": "MediumAmericano Medium",
+    "kcal": "12",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/28/1/9",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1677680290018.png"
+  },
+  {
+    "id": "largeamericano-large",
+    "category": "mc-cafe",
+    "rawText": "아메리카노 LargeAmericano Large15kcal",
+    "name_ko": "아메리카노",
+    "name_en": "LargeAmericano Large",
+    "kcal": "15",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/729/2/9",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/08/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8_Large.png"
+  },
+  {
+    "id": "mediumdecaffeine-americano-medium",
+    "category": "mc-cafe",
+    "rawText": "디카페인 아메리카노 MediumDecaffeine Americano Medium12kcal",
+    "name_ko": "디카페인",
+    "name_en": "아메리카노 MediumDecaffeine Americano Medium",
+    "kcal": "12",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/309/3/9",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1677679725954.png"
+  },
+  {
+    "id": "largedecaffeine-americano-large",
+    "category": "mc-cafe",
+    "rawText": "디카페인 아메리카노 LargeDecaffeine Americano Large11kcal",
+    "name_ko": "디카페인",
+    "name_en": "아메리카노 LargeDecaffeine Americano Large",
+    "kcal": "11",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/730/4/9",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/08/%EB%94%94%EC%B9%B4%ED%8E%98%EC%9D%B8_%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8_Large.png"
+  },
+  {
+    "id": "mediumiced-americano-medium",
+    "category": "mc-cafe",
+    "rawText": "아이스 아메리카노 MediumIced Americano Medium9kcal",
+    "name_ko": "아이스",
+    "name_en": "아메리카노 MediumIced Americano Medium",
+    "kcal": "9",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/209/5/9",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1610887631017.png"
+  },
+  {
+    "id": "largeiced-americano-large",
+    "category": "mc-cafe",
+    "rawText": "아이스 아메리카노 LargeIced Americano Large10kcal",
+    "name_ko": "아이스",
+    "name_en": "아메리카노 LargeIced Americano Large",
+    "kcal": "10",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/731/6/9",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/08/%EC%95%84%EC%9D%B4%EC%8A%A4%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8_%EB%9D%BC%EC%A7%80.png"
+  }
+]

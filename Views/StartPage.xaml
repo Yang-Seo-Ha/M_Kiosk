@@ -1,0 +1,83 @@
+﻿<Page x:Class="키오스크.Views.StartPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="StartPage">
+
+    <Grid Background="#FF101010" Margin="40">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <!-- 광고 -->
+            <RowDefinition Height="Auto"/>
+            <!-- 안내 텍스트 -->
+            <RowDefinition Height="2*"/>
+            <!-- 버튼 -->
+        </Grid.RowDefinitions>
+
+        <!-- 광고 영역 (나중에 이미지로 바꿔도 됨) -->
+        <Border Grid.Row="0"
+                Background="#FF303030"
+                CornerRadius="30"
+                Margin="0,0,0,20">
+            <TextBlock Text="신제품 광고 영역"
+                       Foreground="White"
+                       FontSize="36"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+        </Border>
+
+        <!-- 안내 텍스트 -->
+        <StackPanel Grid.Row="1"
+                    Margin="0,0,0,20"
+                    VerticalAlignment="Center">
+            <TextBlock Text="화면을 터치해서 주문을 시작해주세요"
+                       Foreground="White"
+                       FontSize="28"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       TextAlignment="Center"/>
+            <TextBlock Text="(아래 버튼을 눌러도 됩니다)"
+                       Foreground="#FFBBBBBB"
+                       FontSize="18"
+                       Margin="0,8,0,0"
+                       HorizontalAlignment="Center"
+                       TextAlignment="Center"/>
+        </StackPanel>
+
+        <!-- 버튼 영역 -->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="EatInButton"
+                    Grid.Column="0"
+                    Content="먹고가기"
+                    FontSize="28"
+                    FontWeight="Bold"
+                    Margin="0,0,10,0"
+                    Padding="40,20"
+                    HorizontalAlignment="Right"
+                    Background="#FFFFC107"
+                    Foreground="Black"
+                    BorderThickness="0"
+                    Cursor="Hand"
+                    Click="EatInButton_Click"/>
+
+            <Button x:Name="TakeOutButton"
+                    Grid.Column="1"
+                    Content="포장하기"
+                    FontSize="28"
+                    FontWeight="Bold"
+                    Margin="10,0,0,0"
+                    Padding="40,20"
+                    HorizontalAlignment="Left"
+                    Background="#FFFFC107"
+                    Foreground="Black"
+                    BorderThickness="0"
+                    Cursor="Hand"
+                    Click="TakeOutButton_Click"/>
+        </Grid>
+    </Grid>
+</Page>

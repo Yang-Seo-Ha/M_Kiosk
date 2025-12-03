@@ -1,0 +1,62 @@
+[
+  {
+    "id": "chicken-mozzarella-snack-wrap",
+    "category": "sides",
+    "rawText": "치킨 모짜렐라 스낵랩Chicken Mozzarella Snack Wrap365kcal",
+    "name_ko": "치킨",
+    "name_en": "모짜렐라 스낵랩Chicken Mozzarella Snack Wrap",
+    "kcal": "365",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/753/1/8",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/10/Corp_PC_View_772x530_%ED%95%B4%ED%94%BC%EC%8A%A4%EB%82%B5_Q4_%EC%B9%98%ED%82%A8%EB%AA%A8%EC%A7%9C%EB%A0%90%EB%9D%BC%EC%8A%A4%EB%82%B5%EB%9E%A9.png"
+  },
+  {
+    "id": "2-mcwings-2pcs",
+    "category": "sides",
+    "rawText": "맥윙™ 2조각McWings™ 2pcs245kcal",
+    "name_ko": "맥윙™",
+    "name_en": "2조각McWings™ 2pcs",
+    "kcal": "245",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/289/2/8",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1712028403142.png"
+  },
+  {
+    "id": "2-mcwings-combo-2pcs",
+    "category": "sides",
+    "rawText": "맥윙™ 콤보 2조각McWings™ combo 2pcs245~385kcal",
+    "name_ko": "맥윙™",
+    "name_en": "콤보 2조각McWings™ combo 2pcs",
+    "kcal": "245~385",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/382/3/8",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1712028678503.png"
+  },
+  {
+    "id": "4-mcwings-4pcs",
+    "category": "sides",
+    "rawText": "맥윙™ 4조각McWings™ 4pcs490kcal",
+    "name_ko": "맥윙™",
+    "name_en": "4조각McWings™ 4pcs",
+    "kcal": "490",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/716/4/8",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/08/%EB%A7%A5%EC%9C%99%E2%84%A2_4%EC%A1%B0%EA%B0%81.png"
+  },
+  {
+    "id": "4-mcwings-combo-4pcs",
+    "category": "sides",
+    "rawText": "맥윙™콤보 4조각McWings™combo 4pcs490~630kcal",
+    "name_ko": "맥윙™콤보",
+    "name_en": "4조각McWings™combo 4pcs",
+    "kcal": "490~630",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/718/5/8",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/08/%EB%A7%A5%EC%9C%99%E2%84%A2%EC%BD%A4%EB%B3%B4_4%EC%A1%B0%EA%B0%81.png"
+  },
+  {
+    "id": "8-mcwings-8pcs",
+    "category": "sides",
+    "rawText": "맥윙™ 8조각McWings™ 8pcs979kcal",
+    "name_ko": "맥윙™",
+    "name_en": "8조각McWings™ 8pcs",
+    "kcal": "979",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/717/6/8",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/08/%EB%A7%A5%EC%9C%99%E2%84%A2_8%EC%A1%B0%EA%B0%81.png"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "apple-pie",
+    "category": "happy-snack",
+    "rawText": "애플파이Apple Pie236kcal",
+    "name_ko": "애플파이",
+    "name_en": "Apple Pie",
+    "kcal": "236",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/629/1/15",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1727622372750.png"
+  },
+  {
+    "id": "vanilla-sundae",
+    "category": "happy-snack",
+    "rawText": "바닐라 선데이 아이스크림Vanilla Sundae201kcal",
+    "name_ko": "바닐라",
+    "name_en": "선데이 아이스크림Vanilla Sundae",
+    "kcal": "201",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/527/2/15",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1715674680023.png"
+  },
+  {
+    "id": "largeiced-drip-coffee-large",
+    "category": "happy-snack",
+    "rawText": "아이스 드립커피 LargeIced Drip Coffee Large14kcal",
+    "name_ko": "아이스",
+    "name_en": "드립커피 LargeIced Drip Coffee Large",
+    "kcal": "14",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/714/3/15",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1753862426041.png"
+  },
+  {
+    "id": "chicken-mozzarella-snack-wrap",
+    "category": "happy-snack",
+    "rawText": "치킨 모짜렐라 스낵랩Chicken Mozzarella Snack Wrap365kcal",
+    "name_ko": "치킨",
+    "name_en": "모짜렐라 스낵랩Chicken Mozzarella Snack Wrap",
+    "kcal": "365",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/753/4/15",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/10/Corp_PC_View_772x530_%ED%95%B4%ED%94%BC%EC%8A%A4%EB%82%B5_Q4_%EC%B9%98%ED%82%A8%EB%AA%A8%EC%A7%9C%EB%A0%90%EB%9D%BC%EC%8A%A4%EB%82%B5%EB%9E%A9.png"
+  },
+  {
+    "id": "tomato-cheese-beef-burger",
+    "category": "happy-snack",
+    "rawText": "토마토 치즈 비프 버거Tomato Cheese Beef Burger403kcal",
+    "name_ko": "토마토",
+    "name_en": "치즈 비프 버거Tomato Cheese Beef Burger",
+    "kcal": "403",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/659/5/15",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/product/pcfile/1736299355911.png"
+  },
+  {
+    "id": "apple-pie-vanilla-sundae-combo",
+    "category": "happy-snack",
+    "rawText": "애플파이 바닐라 선데이 아이스크림 콤보Apple Pie Vanilla Sundae Combo437kcal",
+    "name_ko": "애플파이",
+    "name_en": "바닐라 선데이 아이스크림 콤보Apple Pie Vanilla Sundae Combo",
+    "kcal": "437",
+    "url": "https://www.mcdonalds.co.kr/kor/menu/detail/751/6/15",
+    "imageUrl": "https://www.mcdonalds.co.kr/upload/2025/10/Corp_PC_View_772x530_%ED%95%B4%ED%94%BC%EC%8A%A4%EB%82%B5_Q4_%EC%95%A0%ED%94%8C%ED%8C%8C%EC%9D%B4_%EB%B0%94%EB%8B%90%EB%9D%BC%EC%84%A0%EB%8D%B0%EC%9D%B4_%EC%BD%A4%EB%B3%B4.png"
+  }
+]
